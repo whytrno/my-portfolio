@@ -2,7 +2,9 @@ import React from "react";
 import Sidebar from "@/components/sidebar";
 import {ThemeSwitcher} from "@/components/themes/theme-switcher";
 
-const Layout = ({children}: { children: React.ReactNode }) => {
+const Layout = ({children}: {
+    children: React.ReactNode
+}) => {
     // const [loading, setLoading] = useState(true)
     // // after 1.5 seconds, set loading to false
     // setTimeout(() => {

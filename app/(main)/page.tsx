@@ -1,7 +1,7 @@
 'use client'
 
 import ExperientsData from "@/data/experients";
-import {useState} from "react";
+import React, {useState} from "react";
 import Modal from "@/components/modal";
 import ExperienceProjects from "@/components/experience-projects";
 

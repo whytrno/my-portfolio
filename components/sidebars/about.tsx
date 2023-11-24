@@ -8,10 +8,8 @@ const About = () => {
                     <h1 className="text-5xl font-semibold">Wahyu Triono</h1>
                     <p className="text-xl">Junior Fullstack Developer</p>
                 </div>
-                <p className="text-foreground/50">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium
-                    aliquam delectus
-                    deleniti dicta doloremque eaque earum est illo laudantium neque, nihil nobis praesentium
-                    quam quibusdam quis quisquam sunt voluptas voluptate.</p>
+                <p className="text-foreground/50">Saya merupakan website developer yang lebih fokus dalam backend, saya
+                    suka dalam mempelajari sesuatu hal yang baru, self-motivated, dan pekerja keras.</p>
             </div>
         </div>
     )
