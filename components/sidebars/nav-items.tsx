@@ -18,6 +18,10 @@ const NavItems = () => {
         {
             name: 'Achievements',
             href: '/achievements'
+        },
+        {
+            name: 'Curriculum Vitae',
+            href: 'https://drive.google.com/file/d/1QfTgTNj00m69dFA1UAF9HDG1FI_0OmlI/view?usp=sharing'
         }
     ]
 
