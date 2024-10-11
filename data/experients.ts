@@ -1,6 +1,17 @@
 const ExperientsData = [
     {
         id: 1,
+        company: "PT. Orecon Sadanus Perkasa",
+        title: "Fullstack Developer",
+        description: "Membuat website dan mobile untuk pendataan karyawan, absensi, dan generate surat tugas",
+        skills: ["PHP", "Laravel", "MySQL", "Tailwind", "Flutter", "Dart", "React Js"],
+        images: ["oims/1.png", "oims/2.png", "oims/3.png", "oims/4.png", "oims/5.png", "oims/6.png", "oims/7.png", "oims/8.png", "oims/9.jpeg", "oims/10.jpeg"],
+        url: "",
+        startDate: "Mei 2024",
+        endDate: "-",
+    },
+    {
+        id: 2,
         company: "PT. Rekatama Digdaya Solusi",
         title: "Fullstack Developer",
         description: "Membuat website RAP (Rencana Anggaran Pelaksanaan) untuk perkiraan dalam perencanaan dalam pembuatan proyek bangunan",
@@ -11,7 +22,7 @@ const ExperientsData = [
         endDate: "Nov 2023",
     },
     {
-        id: 2,
+        id: 3,
         company: "PT. Tirta Surya Gemilang",
         title: "Fullstack Developer",
         description: "Membuat API dengan struktur GraphQL dengan Golang, server socket.io, dan membuat client menggunakan Next Js menggunakan bahasa Typescript yang digunakan untuk sosial media internal kantor.",
@@ -22,7 +33,7 @@ const ExperientsData = [
         endDate: "Agu 2023",
     },
     {
-        id: 3,
+        id: 4,
         company: "Sentra inovasi Institut Teknologi Telkom Purwokerto",
         title: "Backend Developer",
         description: "Membuat API dalam pembuatan Sistem Informasi Akademik untuk Al-Irsyad Al-Islamiyyah Purwokerto dalam pengelolaan dan pencatatan kurikulum merdeka, Mengelola server, Maintenance, dan Membuat website yang dibutuhkan.",
@@ -50,7 +61,7 @@ const ExperientsData = [
         endDate: "Agu 2023",
     },
     {
-        id: 4,
+        id: 5,
         company: "PT. Baracipta Esa Engineering",
         title: "Backend Developer",
         description: "Mengembangkan RestApi untuk platform LMS pembelajaran dan jual beli course yang digunakan untuk studi independent pada Kampus Merdeka, Membuat ERD dan database, Melakukan deploy project ke dalam server,Menjadi team leader yang beranggotakan 7 orang",
@@ -61,7 +72,7 @@ const ExperientsData = [
         endDate: "Jun 2023",
     },
     {
-        id: 5,
+        id: 6,
         company: "CG CURVES Animation Studio",
         title: "Website Builder",
         description: "Membuat website company profile untuk menampilkan data diri dan project animasi serial tv dari perusahaan CGCURVES ANIMATION STUDIO",
@@ -72,7 +83,7 @@ const ExperientsData = [
         endDate: "Okt 2022",
     },
     {
-        id: 6,
+        id: 7,
         company: "Magrow Animation PVT Company",
         title: "Website Builder",
         description: "Membuat website company profile untuk menampilkan data diri dan project animasi serialtv dari perusahaan Magrow Animation PVT Company",
@@ -83,7 +94,7 @@ const ExperientsData = [
         endDate: "Sep 2022",
     },
     {
-        id: 7,
+        id: 8,
         company: "PT. Sinergi Merah Putih",
         title: "Backend Developer",
         description: "Membuat Rest API untuk website etalase projek internal",
@@ -94,7 +105,7 @@ const ExperientsData = [
         endDate: "Sep 2022",
     },
     {
-        id: 7,
+        id: 9,
         company: "Institut Teknologi Telkom Purwokerto",
         title: "Fullstack Developer",
         description: "Membuat website company profile program studi Software Engineering yang berisikan detail program studi, data dosen, dan blog",

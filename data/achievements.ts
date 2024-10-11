@@ -13,8 +13,8 @@ const AchievementsData = [
             "7. Melihat peta pendistribusian\n" +
             "8. Melihat pengajuan bantuan\n",
         skills: ["PHP", "Laravel", "Tailwind", "Leaflet.JS", "Midtrans"],
-        images: ["baznas/lomba-1.jpeg", "baznas/lomba-2.jpeg", "baznas/lomba-3.jpeg", "baznas/1.jpeg", "baznas/2.jpeg", "baznas/3.jpeg", "baznas/4.jpeg", "baznas/5.jpeg", "baznas/6.jpeg", "baznas/7.jpeg", "baznas/8.jpeg", "baznas/9.jpeg"],
-        url: "",
+        images: ["baznas/berita.png", "baznas/lomba-3.jpeg", "baznas/1.jpeg", "baznas/2.jpeg", "baznas/3.jpeg", "baznas/4.jpeg", "baznas/5.jpeg", "baznas/6.jpeg", "baznas/7.jpeg", "baznas/8.jpeg", "baznas/9.jpeg"],
+        url: "https://ittelkom-pwt.ac.id/ciptakan-inovasi-baznas-mahasiswa-it-telkom-purwokerto-raih-juara-3-dalam-kompetisi-it-zakathon-2023/",
         startDate: "Agu 2023",
         endDate: "Agu 2023",
     },
